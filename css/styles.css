@@ -44,6 +44,9 @@ a {
 .contact .contact-item:hover {
   color: #404bbf;
 }
+.contact .contact-item:focus {
+  color: #404bbf;
+}
 address {
   font-style: normal;
 }
