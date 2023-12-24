@@ -28,6 +28,7 @@ a {
 .navigation .navigation-item {
   color: #2e2f42;
   font-weight: 500;
+  letter-spacing: 0.32px;
 }
 .navigation .navigation-item:hover {
   color: #404bbf;
@@ -39,10 +40,12 @@ a {
 .contact .contact-item {
   color: #434455;
   letter-spacing: 0.32px;
-  font-style: normal;
 }
 .contact .contact-item:hover {
   color: #404bbf;
+}
+address {
+  font-style: normal;
 }
 
 .main-title {
